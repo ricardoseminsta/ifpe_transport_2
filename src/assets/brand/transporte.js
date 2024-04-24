@@ -1,0 +1,23 @@
+export const transporte_logo = [
+  '599 116',
+
+  `<g transform="matrix(1 0 0 1 400 125)" id="a98ae2b4-b9fc-4c97-821d-1ea9b5443245"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-400" y="-125" rx="0" ry="0" width="800" height="250" />
+</g>
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="df20946d-987d-4719-b603-d972788d98b5"  >
+</g>
+<g transform="matrix(0.83 0 0 0.83 505.83 364.76)" style="filter: url(#SVGID_394);" id="427d89fb-defb-4bd2-8c56-2d44eabe7d91"  >
+<filter id="SVGID_394" y="-22%" height="144%" x="-20%" width="140%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="-1" dy="-1" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(255,255,255)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-137.56" y="12.57" >T</tspan><tspan x="-114.16" y="12.57" >R</tspan><tspan x="-88.6" y="12.57" >A</tspan><tspan x="-61.6" y="12.57" >N</tspan><tspan x="-31.56" y="12.57" >S</tspan><tspan x="-10.56" y="12.57" >P</tspan><tspan x="13.68" y="12.57" >O</tspan><tspan x="45.4" y="12.57" >R</tspan><tspan x="69.92" y="12.57" >T</tspan><tspan x="93.32" y="12.57" >E</tspan><tspan x="116.36" y="12.57" >S</tspan></text>
+</g>
+`,
+]
